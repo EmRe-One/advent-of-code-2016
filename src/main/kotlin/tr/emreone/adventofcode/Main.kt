@@ -1,6 +1,6 @@
-package de.emreak.adventofcode
+package tr.emreone.adventofcode
 
-import de.emreak.adventofcode.days.*
+import tr.emreone.adventofcode.days.*
 import tr.emreone.utils.FileLoader
 import tr.emreone.utils.Logger.logger
 
