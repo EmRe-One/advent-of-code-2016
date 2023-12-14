@@ -1,8 +1,8 @@
 package tr.emreone.adventofcode
 
 import tr.emreone.adventofcode.days.*
-import tr.emreone.utils.FileLoader
-import tr.emreone.utils.Logger.logger
+import tr.emreone.kotlin_utils.FileLoader
+import tr.emreone.kotlin_utils.Logger.logger
 
 fun main() {
 
