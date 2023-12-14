@@ -1,6 +1,6 @@
 package tr.emreone.adventofcode.days
 
-import tr.emreone.utils.FileLoader
+import tr.emreone.kotlin_utils.FileLoader
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 

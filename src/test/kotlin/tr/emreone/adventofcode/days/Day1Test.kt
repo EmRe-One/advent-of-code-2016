@@ -1,7 +1,7 @@
 package tr.emreone.adventofcode.days
 
 import org.junit.jupiter.api.Test
-import tr.emreone.utils.FileLoader
+import tr.emreone.kotlin_utils.FileLoader
 import kotlin.test.assertEquals
 
 
